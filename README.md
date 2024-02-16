@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**WMBarbosa/WMBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Wesley Mario, a technology enthusiast since childhood. Currently pursuing a degree in Analysis and Systems Development and seeking an experience as a developer, along with an opportunity to showcase my skills.
 
-Here are some ideas to get you started:
+:orange_book: Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Embarking on my professional journey, I am extremely focused and delighted with all the knowledge I have been acquiring throughout college, as well as through complementary courses to develop myself as a qualified professional. Currently, I am studying Java and Python, but at the moment, I am delving deeper into Java with external courses.
+
+In Java, I am learning to use Spring to create better projects, benefiting from object-oriented programming, JSON, and two dependencies that greatly help in the project, which are Jackson and Gson.
+
+Nevertheless, I intend to deepen my knowledge in Python. I am committed to continuous learning and growth, eager to become proficient in programming languages, and perhaps in other languages as well.
+
+
+:computer: Technologies Under Study
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+
+:last_quarter_moon: Social
+
+<div>
+<a href = "mailto:wesleymario01@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/wesley-mario/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
