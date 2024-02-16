@@ -13,7 +13,7 @@ Nevertheless, I intend to deepen my knowledge in Python. I am committed to conti
 
 # :computer:  Technologies Under Study
 
-![Java](https://img.shields.io/badge/Java-%23FF5733.svg?style=for-the-badge&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23FF5733.svg?style=for-the-badge&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=JSON&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
 
 
 
