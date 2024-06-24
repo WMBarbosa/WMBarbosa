@@ -19,8 +19,8 @@ Nevertheless, I intend to deepen my knowledge in Python. I am committed to conti
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WMBarbosa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=WMBarbosa&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WMBarbosa/dio-lab-open-source)
+### Meus Principais Desafios
+[![Project SpringBoot3 JPA](https://github-readme-stats.vercel.app/api/pin/?username=WMBarbosa&repo=project-springboot3-jpa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WMBarbosa/project-springboot3-jpa)
 [![Primeiro Projeto Banco](https://github-readme-stats.vercel.app/api/pin/?username=WMBarbosa&repo=FirstProject&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WMBarbosa/FirstProject)
 [![Primeiro Projeto Spring](https://github-readme-stats.vercel.app/api/pin/?username=WMBarbosa&repo=ProjectSpring&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WMBarbosa/ProjectSpring)
 
