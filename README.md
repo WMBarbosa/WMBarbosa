@@ -29,5 +29,4 @@ Nevertheless, I intend to deepen my knowledge in Python. I am committed to conti
 <div>
 <a href="mailto:wesleymario01@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 <a href="https://www.linkedin.com/in/wesley-mario/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href= "https://www.dio.me/users/wesleymario01/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge"></a>
 
