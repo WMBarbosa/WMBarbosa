@@ -4,11 +4,13 @@ I am Wesley Mario, a technology enthusiast since childhood. Currently pursuing a
 
 # 📚 Expertise
 
-Embarking on my professional journey, I am extremely focused and delighted with all the knowledge I have been acquiring throughout college, as well as through complementary courses to develop myself as a qualified professional. Currently, I am studying Java and Python, but at the moment, I am delving deeper into Java with external courses.
+I'm a technology enthusiast with a solid foundation across various areas of software development. With a strong background in Java, I have practical experience in frameworks like Spring Boot and efficient use of tools like Maven for dependency management and project builds.
 
-In Java, I am learning to use Spring to create better projects, benefiting from object-oriented programming, JSON, and two dependencies that greatly help in the project, which are Jackson and Gson.
+Additionally, I'm familiar with relational databases such as SQL and PostgreSQL, as well as NoSQL databases like MongoDB. My proficiency in JPA Hibernate enables me to develop robust applications, leveraging efficient and scalable data persistence.
 
-Nevertheless, I intend to deepen my knowledge in Python. I am committed to continuous learning and growth, eager to become proficient in programming languages, and perhaps in other languages as well.
+API utilization is integral to my projects, allowing seamless and effective system integration. I'm continually seeking to enhance my technical skills and apply them to challenging projects.
+
+I'm excited about the possibilities technology offers and committed to contributing to innovative, high-performance solutions. I'm ready for new challenges and opportunities that can expand my knowledge and experience.
 
 
 # 💻  Technologies Under Study
