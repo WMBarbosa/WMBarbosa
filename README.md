@@ -4,7 +4,7 @@ I am Wesley Mario, a technology enthusiast since childhood. Currently pursuing a
 
 # 📚 Expertise
 
-I'm a technology enthusiast with a solid foundation across various areas of software development. With a strong background in Java, I have practical experience in frameworks like Spring Boot and efficient use of tools like Maven for dependency management and project builds.
+I'm a technology enthusiast with a solid foundation across various areas of software development. With a strong background in Java and Kotlin, I have practical experience in frameworks like Spring Boot and efficient use of tools like Maven for dependency management and project builds.
 
 Additionally, I'm familiar with relational databases such as SQL and PostgreSQL, as well as NoSQL databases like MongoDB. My proficiency in JPA Hibernate enables me to develop robust applications, leveraging efficient and scalable data persistence.
 
