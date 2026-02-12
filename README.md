@@ -1,16 +1,16 @@
 # Hi there 👋
 
-I am Wesley Mario, a technology enthusiast since childhood. Currently pursuing a degree in Analysis and Systems Development and seeking an experience as a developer, along with an opportunity to showcase my skills.
+I’m Wesley Mario, a Back-end Developer, passionate about technology since childhood. I’m focused on building reliable, well-structured applications and continuously evolving as a software developer.
 
 # 📚 Expertise
 
-I'm a technology enthusiast with a solid foundation across various areas of software development. With a strong background in Java and Kotlin, I have practical experience in frameworks like Spring Boot and efficient use of tools like Maven for dependency management and project builds.
+I have a solid foundation in software development, with hands-on experience in Java and Kotlin, working mainly with Spring Boot for building RESTful APIs and back-end services. I’m comfortable using Maven for dependency management and project builds, always aiming for clean, maintainable code.
 
-Additionally, I'm familiar with relational databases such as SQL and PostgreSQL, as well as NoSQL databases like MongoDB. My proficiency in JPA Hibernate enables me to develop robust applications, leveraging efficient and scalable data persistence.
+I have experience with relational databases such as PostgreSQL and SQL, as well as NoSQL solutions like MongoDB. Using JPA / Hibernate, I design efficient and scalable data persistence layers that support robust application architectures.
 
-API utilization is integral to my projects, allowing seamless and effective system integration. I'm continually seeking to enhance my technical skills and apply them to challenging projects.
+API development and integration are central to my projects, enabling seamless communication between systems. I’m constantly improving my technical skills and expanding my knowledge in areas such as system design, messaging, and cloud fundamentals.
 
-I'm excited about the possibilities technology offers and committed to contributing to innovative, high-performance solutions. I'm ready for new challenges and opportunities that can expand my knowledge and experience.
+I’m motivated by challenges and driven by continuous learning, seeking opportunities where I can contribute to high-quality, scalable solutions while growing as a back-end developer.
 
 
 # 💻  Technologies Under Study
