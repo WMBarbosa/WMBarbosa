@@ -4,13 +4,15 @@ I’m Wesley Mario, a Back-end Developer, passionate about technology since chil
 
 # 📚 Expertise
 
-I have a solid foundation in software development, with hands-on experience in Java and Kotlin, working mainly with Spring Boot for building RESTful APIs and back-end services. I’m comfortable using Maven for dependency management and project builds, always aiming for clean, maintainable code.
+I have a strong foundation in back-end development, with hands-on experience building scalable applications using Java and the Spring ecosystem. My work focuses on developing RESTful APIs and microservices using Spring Boot, Spring Data JPA, and Hibernate, following best practices for clean architecture, maintainable code, and high performance.
 
-I have experience with relational databases such as PostgreSQL and SQL, as well as NoSQL solutions like MongoDB. Using JPA / Hibernate, I design efficient and scalable data persistence layers that support robust application architectures.
+I have practical experience working with both relational and NoSQL databases, including PostgreSQL, MySQL, and MongoDB. I design efficient data persistence layers and implement robust CRUD operations while ensuring proper data modeling and system scalability.
 
-API development and integration are central to my projects, enabling seamless communication between systems. I’m constantly improving my technical skills and expanding my knowledge in areas such as system design, messaging, and cloud fundamentals.
+My projects involve API development and system integration, enabling reliable communication between services in distributed architectures. I am comfortable using Maven for dependency management, Git for version control, and applying modern development workflows.
 
-I’m motivated by challenges and driven by continuous learning, seeking opportunities where I can contribute to high-quality, scalable solutions while growing as a back-end developer.
+Additionally, I have experience working with Kotlin for automation tasks, where I contributed to generating CRUD code structures and implementing security mechanisms for Java-based applications.
+
+I continuously improve my technical skills through academic projects, personal development, and hands-on experimentation with technologies related to microservices, cloud fundamentals, and system design. My goal is to build high-quality, scalable back-end solutions while growing as a software engineer.
 
 
 # 💻  Technologies Under Study
