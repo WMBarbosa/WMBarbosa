@@ -4,7 +4,7 @@ I’m Wesley Mario, a Back-end Developer, passionate about technology since chil
 
 # 📚 Expertise
 
-I have a strong foundation in back-end development, with hands-on experience building scalable applications using Java and the Spring ecosystem. My work focuses on developing RESTful APIs and microservices using Spring Framework(Spring Boot, Spring Data, Spring Security and related technologies), following best practices for clean architecture, maintainable code, and high performance.
+I have a strong foundation in back-end development, with hands-on experience building scalable applications using Java and the Spring ecosystem. My work focuses on developing RESTful APIs and microservices using Spring Framework (Spring Boot, Spring Data, Spring Security and related technologies), following best practices for clean architecture, maintainable code, and high performance.
 
 I have practical experience working with both relational and NoSQL databases, including PostgreSQL, MySQL, and MongoDB. I design efficient data persistence layers and implement robust CRUD operations while ensuring proper data modeling and system scalability.
 
